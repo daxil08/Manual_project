@@ -1,4 +1,4 @@
 # Manual_project
 
 
-HLR 
+this projeccase  is all about test scenario ,test case , bug report
